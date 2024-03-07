@@ -11,7 +11,7 @@ Project ini adalah sebuah aplikasi web yang memungkinkan Anda untuk membuat sert
 - **Attractive design**: A design that uses a very beautiful combination of colors.
 
 ## Installation
-1. Clone the repo: `git clone ???`
+1. Clone the repo: `git clone https://github.com/Seann21/Certificate-Generator.git`
 2. Go to project directory: `cd certificate-generator`
 3. Install dependencies: `npm install`
 4. Run the app: `npm run dev`
