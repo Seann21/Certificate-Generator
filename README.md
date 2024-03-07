@@ -4,7 +4,7 @@ Project ini adalah sebuah aplikasi web yang memungkinkan Anda untuk membuat sert
 
 
 ### Live Demo
-[certificate-generator Clone Demo](https://main--dynamic-dusk-665673.netlify.app/)
+[certificate-generator Demo](https://certificate-generator-flax.vercel.app/)
 
 ## Features
 - **Udemy/freecodecamp Like Certificate**: Built with React.js and Vite for fast rendering.
