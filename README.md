@@ -15,7 +15,7 @@ Project ini adalah sebuah aplikasi web yang memungkinkan Anda untuk membuat sert
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/Seann21/Certificate-Generator.git`
-2. Go to project directory: `cd certificate-generator`
+2. Go to project directory: `cd Certificate-Generator`
 3. Install dependencies: `npm install`
 4. Run the app: `npm run dev`
 
