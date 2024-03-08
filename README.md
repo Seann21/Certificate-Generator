@@ -1,5 +1,8 @@
 # Certificate Generator
 
+<img src="./src/assets/Certificate Generator.png" alt="Certificategenerator_mockup" width="700" height="650" align="center" />
+
+
 Project ini adalah sebuah aplikasi web yang memungkinkan Anda untuk membuat sertifikat dengan mudah dan cepat. Pengguna dapat memasukkan informasi seperti nama peserta, nama program, tanggal, dan logo, dan aplikasi akan secara otomatis menghasilkan sertifikat yang terlihat profesional.
 
 
