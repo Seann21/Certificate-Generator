@@ -1,6 +1,10 @@
-# Certificate Generator
+<h1 align="center"> Certificate Generator </h1>
 
-<img src="./src/assets/Certificate Generator.png" alt="Certificategenerator_mockup" width="700" height="650" align="center" />
+<div align="center">
+  <img src="./src/assets/Certificate Generator.png" alt="Chatyol ai" width="600" height="500" />
+</div>
+
+<br>
 
 
 This project is a web application that allows you to create certificates easily and quickly. Users can enter information such as participant names, program names, dates, and logos, and the app will automatically generate professional-looking certificates.
